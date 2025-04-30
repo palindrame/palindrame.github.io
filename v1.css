@@ -1,7 +1,7 @@
 html {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: larger;
-    font-weight: 300;
+    font-weight: 320;
 }
 
 body {
@@ -29,6 +29,8 @@ a:hover {
     max-width: 520px;
     padding: 32px;
     line-height: 1.6em;
+    border-radius: 20px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.25);
 }
 
 .avatar {
