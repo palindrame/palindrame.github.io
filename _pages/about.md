@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PG @<a href='#'>CST</a>, <a href='#'>IIESTS</a>
+subtitle: <i>PG @<a href='https://www.iiests.ac.in/IIEST/AcaUnitDetails/CST'>CST</a>, <a href='https://www.iiests.ac.in/'>IIEST</a></i>
 
 profile:
   align: right
@@ -24,15 +24,27 @@ announcements:
 
 
 
-Hola! I’m ইন্দ্র 🔹 इन्द्र 🔹 [Indra](https://en.wikipedia.org/wiki/Indra).
+Hola! I’m ইন্দ্র🔹इन्द्र🔹[Indra](https://en.wikipedia.org/wiki/Indra)🔹palindrame (pal + indra + me).    
+Call me what you like, [ENDIAN it doesn’t even matter](https://www.youtube.com/watch?v=eVTXPUF4Oz4) ¯\\\_(ツ)\_/¯
+
 
 I pray to the Holy Trinity of [Computer Architecture](https://en.wikipedia.org/wiki/Computer_architecture), 
 [Operating Systems](https://en.wikipedia.org/wiki/Operating_system) and 
 [Compilers](https://en.wikipedia.org/wiki/Compiler), 
-with a particular devotion for **Computer Architecture**, especially [**Microarchitecture**](https://en.wikipedia.org/wiki/Microarchitecture) 🏠.
+with particular devotion towards **Computer Architecture**. I especially focus on improving the <i>performance</i> and <i>security</i> aspects of processor [**Microarchitecture**](https://en.wikipedia.org/wiki/Microarchitecture).
 
-[🎶 *ENDIAN it doesn’t even matter* 🎶](https://www.youtube.com/watch?v=eVTXPUF4Oz4), if it's [**"good"**](https://www.youtube.com/watch?v=a1zDuOPkMSw) research.
+I’m extremely passionate about researching innovative solutions that *NOT ONLY* meet the standards of top Architecture / Systems conferences like 
+[ISCA](https://www.iscaconf.org/), 
+[MICRO](https://www.microarch.org/), 
+[HPCA](https://www.hpca-conf.org/), 
+[ASPLOS](https://www.asplos-conference.org/), 
+[etc](https://www.cse.iitb.ac.in/~biswa/forums.html); 
+*BUT ALSO* have immediate feasability / enough industrial impact to be implemented as real-world computing systems.
 
 
-**🚧 This site is under construction — stay tuned!**
+I am always up for collaborating on [interesting research](https://www.youtube.com/watch?v=a1zDuOPkMSw) problems.  
+Please feel free to reach out at [mail**[DOT]**indranilpal**[AT]**gmail**[DOT]**com](mailto:mail.indranilpal@gmail.com).
+
+
+> Warning: 🚧 Site under construction! Come back later.
 
