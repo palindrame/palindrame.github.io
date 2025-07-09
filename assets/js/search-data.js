@@ -23,23 +23,16 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "This is a minimal description of my academic/professional life. To get the pdf version click the top pdf download button.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/https:/palindrame.github.io/assets/pdf/Indranil_Pal_miniCV.pdf";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+        },{id: "nav-courses",
+          title: "courses",
+          description: "Teaching / Lab Assistantships.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -50,7 +43,7 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
             },},{id: "news-master-s-thesis-defended-successfully-excited-for-the-next-chapter",
-          title: '🎓 Master’s thesis defended successfully. Excited for the next chapter.',
+          title: '🎓 Master’s thesis defended successfully 🎊. Excited for the next chapter 🥂.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
