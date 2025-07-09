@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎓 Master’s thesis defended successfully. Excited for the next chapter.
+🎓 Master’s thesis defended successfully 🎊. Excited for the next chapter 🥂.
