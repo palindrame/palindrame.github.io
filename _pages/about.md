@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Room 42069, Dept of CST</p>
+    <p>IIESTS, B Garden Area</p>
+    <p>Howrah, WB IN 711103</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,5 +22,17 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-Hi, I'm Indranil. ENDAIN it does'nt even matter. I CUDA've written something better, but I'm SODIMM.
-<b>This page is under construction ...</b>
+
+
+Hola! I’m ইন্দ্র 🔹 इन्द्र 🔹 [Indra](https://en.wikipedia.org/wiki/Indra).
+
+I pray to the Holy Trinity of [Computer Architecture](https://en.wikipedia.org/wiki/Computer_architecture), 
+[Operating Systems](https://en.wikipedia.org/wiki/Operating_system) and 
+[Compilers](https://en.wikipedia.org/wiki/Compiler), 
+with a particular devotion for **Computer Architecture**, especially [**Microarchitecture**](https://en.wikipedia.org/wiki/Microarchitecture) 🏠.
+
+[🎶 *ENDIAN it doesn’t even matter* 🎶](https://www.youtube.com/watch?v=eVTXPUF4Oz4), if it's [**"good"**](https://www.youtube.com/watch?v=a1zDuOPkMSw) research.
+
+
+**🚧 This site is under construction — stay tuned!**
+
