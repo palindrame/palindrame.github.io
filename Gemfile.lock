@@ -41,7 +41,6 @@ GEM
       citeproc (~> 1.0, >= 1.0.9)
       csl (~> 2.0)
       observer (< 1.0)
-    classifier-reborn (2.3.0)
       fast-stemmer (~> 1.0)
       matrix (~> 0.4)
     colorator (1.1.0)
@@ -287,7 +286,6 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
-  classifier-reborn
   css_parser
   feedjira
   httparty
