@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: courses
+title: teaching
 description: List of academic courses assisted through <b>Lab / Teaching Assistantship</b> roles.
 nav: true
 nav_order: 5
@@ -12,10 +12,10 @@ nav_order: 5
 
 | 📚 Course Name                              | 🏛️ Institution                  | 📅 Semester     |
 |--------------------------------------------|----------------------------------|-------------|
-| Programming Paradigms Lab (CS227)           | IIEST, Shibpur                   | Spring 2025        |
-| Algorithm Lab (CS2271)                      | IIEST, Shibpur                   | Spring 2025        |
-| Compiler Design Lab (CS4171)                | IIEST, Shibpur                   | Autumn 2024        |
-| Soft Computing Lab (CS3183)                 | IIEST, Shibpur                   | Autumn 2024        |
+| Programming Paradigms Lab (CS 2273)           | IIEST, Shibpur                   | Spring 2025        |
+| Algorithm Lab (CS 2271)                      | IIEST, Shibpur                   | Spring 2025        |
+| Compiler Design Lab (CS 4171)                | IIEST, Shibpur                   | Autumn 2024        |
+| Soft Computing Lab (CS 3183)                 | IIEST, Shibpur                   | Autumn 2024        |
 
 ---
 

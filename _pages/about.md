@@ -24,7 +24,7 @@ announcements:
 
 
 
-Hola! I’m ইন্দ্র🔹इन्द्र🔹[Indra](https://en.wikipedia.org/wiki/Indra)(Ih n - d r uh)🔹palindrame (pal + indra + me).    
+<span id="greeting">Hello</span>! I’m ইন্দ্র🔹इन्द्र🔹[Indra](https://en.wikipedia.org/wiki/Indra) (Ih n - d r uh)🔹palindrame (pal + indra + me).    
 Call me what you like, [ENDIAN it doesn’t even matter](https://www.youtube.com/watch?v=eVTXPUF4Oz4) ¯\\\_(ツ)\_/¯
 
 
@@ -38,19 +38,19 @@ with particular devotion towards Computer Architecture. My research efforts are 
 [**Microarchitectural**](https://www.sciencedirect.com/science/article/abs/pii/B9780128200643000076) design.
 
 At the core of my [research philosophy](https://medium.com/@DrUrvashi.Sharma/the-role-of-research-philosophy-in-defining-methodology-f5022b36a885), 
-is the process of turning innovative ideas into practical solutions that *NOT ONLY* meet the standards of top Systems conferences like 
+is the process of turning bold and innovative ideas into practical solutions that *NOT ONLY* meet the standards of top Systems conferences (like 
 [ISCA](https://www.iscaconf.org/), 
 [MICRO](https://www.microarch.org/), 
 [HPCA](https://www.hpca-conf.org/), 
 [ASPLOS](https://www.asplos-conference.org/), 
 [USENIX SECURITY](https://www.usenix.org/conference/usenixsecurity25),
-[etc](https://www.cse.iitb.ac.in/~biswa/forums.html); 
-*BUT ALSO* possess sufficient industrial impact such that, its practical feasability on silicon, becomes a reality in today's computing infrastructure.
+[etc](https://www.cse.iitb.ac.in/~biswa/forums.html)); 
+*BUT ALSO* cause sufficient industrial impact such that, their practical feasability on silicon, becomes a reality in today's computing infrastructure.
 
 
 I am always up for collaborating on [interesting research](https://www.youtube.com/watch?v=a1zDuOPkMSw) problems.  
 Please feel free to reach out at [mail**[DOT]**indranilpal**[AT]**gmail**[DOT]**com](mailto:mail.indranilpal@gmail.com).
 
 
-> Warning: 🚧 Site under testing & construction! Come back later.
+> **Warning:** 🚧 Site under testing & construction! Come back later.
 

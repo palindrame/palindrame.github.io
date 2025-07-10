@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎓 Master’s thesis defended successfully 🎊. Special Thanks to [Dr. Shubhadip Mitra](https://sites.google.com/view/shubhadip-mitra).
+🎓 Successfully defended my Master's thesis, titled "Travelling with Rewards and Penalties". Special thanks to [Dr. Shubhadip Mitra](https://sites.google.com/view/shubhadip-mitra).
