@@ -24,27 +24,33 @@ announcements:
 
 
 
-Hola! I’m ইন্দ্র🔹इन्द्र🔹[Indra](https://en.wikipedia.org/wiki/Indra)🔹palindrame (pal + indra + me).    
+Hola! I’m ইন্দ্র🔹इन्द्र🔹[Indra](https://en.wikipedia.org/wiki/Indra)(Ih n - d r uh)🔹palindrame (pal + indra + me).    
 Call me what you like, [ENDIAN it doesn’t even matter](https://www.youtube.com/watch?v=eVTXPUF4Oz4) ¯\\\_(ツ)\_/¯
 
 
 I pray to the Holy Trinity of [Computer Architecture](https://en.wikipedia.org/wiki/Computer_architecture), 
 [Operating Systems](https://en.wikipedia.org/wiki/Operating_system) and 
 [Compilers](https://en.wikipedia.org/wiki/Compiler), 
-with particular devotion towards **Computer Architecture**. I especially focus on improving the <i>performance</i> and <i>security</i> aspects of processor [**Microarchitecture**](https://en.wikipedia.org/wiki/Microarchitecture).
+with particular devotion towards Computer Architecture. My research efforts are largely centered on the 
+[**Performance**](https://www.intel.com/content/www/us/en/docs/vtune-profiler/cookbook/2023-0/top-down-microarchitecture-analysis-method.html) and 
+[**Security**](https://comsec.ethz.ch/research/microarch/)
+[tradeoffs](https://developer.arm.com/documentation/102404/0202/Architecture-and-micro-architecture) of 
+[**Microarchitectural**](https://www.sciencedirect.com/science/article/abs/pii/B9780128200643000076) design.
 
-I’m extremely passionate about researching innovative solutions that *NOT ONLY* meet the standards of top Architecture / Systems conferences like 
+At the core of my [research philosophy](https://medium.com/@DrUrvashi.Sharma/the-role-of-research-philosophy-in-defining-methodology-f5022b36a885), 
+is the process of turning innovative ideas into practical solutions that *NOT ONLY* meet the standards of top Systems conferences like 
 [ISCA](https://www.iscaconf.org/), 
 [MICRO](https://www.microarch.org/), 
 [HPCA](https://www.hpca-conf.org/), 
 [ASPLOS](https://www.asplos-conference.org/), 
+[USENIX SECURITY](https://www.usenix.org/conference/usenixsecurity25),
 [etc](https://www.cse.iitb.ac.in/~biswa/forums.html); 
-*BUT ALSO* have immediate feasability / enough industrial impact to be implemented as real-world computing systems.
+*BUT ALSO* possess sufficient industrial impact such that, its practical feasability on silicon, becomes a reality in today's computing infrastructure.
 
 
 I am always up for collaborating on [interesting research](https://www.youtube.com/watch?v=a1zDuOPkMSw) problems.  
 Please feel free to reach out at [mail**[DOT]**indranilpal**[AT]**gmail**[DOT]**com](mailto:mail.indranilpal@gmail.com).
 
 
-> Warning: 🚧 Site under construction! Come back later.
+> Warning: 🚧 Site under testing & construction! Come back later.
 
