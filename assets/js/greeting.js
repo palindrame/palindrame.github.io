@@ -24,7 +24,7 @@
         el.innerText = currentGreeting;
         el.style.opacity = "0";
         el.style.transition = "opacity 1s ease-in-out";
-        el.style.fontSize = "2rem";
+        el.style.fontSize = "2.5rem";
         el.style.fontWeight = "bold";
         el.style.color = "#1E90FF"; // Dodger Blue
         el.style.marginTop = "2rem";

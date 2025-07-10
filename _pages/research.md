@@ -2,22 +2,30 @@
 layout: page
 title: research
 permalink: /research/
-description: A selection of academic and personal projects I’ve worked on or am currently pursuing.
+description: The best way to predict the future is to invent it. — Alan Kay 
 nav: true
 nav_order: 2
 horizontal: false
 ---
+>🚧 page under construction ...
 
-[My research](/research/) is simple. I make [tradeoffs](https://developer.arm.com/documentation/102403/0202/Architecture-and-micro-architecture)
-between [**Performance**](https://www.intel.com/content/www/us/en/docs/vtune-profiler/cookbook/2023-0/top-down-microarchitecture-analysis-method.html) 
-and [**Security**](https://comsec.ethz.ch/research/microarch/). 
 
-The core of [my Research](/research/) is about transforming bold and innovative ideas into practical [chip designs]() that *NOT ONLY* meet the standards of top conferences (like 
-[ISCA](https://www.iscaconf.org/), 
-[MICRO](https://www.microarch.org/), 
-[HPCA](https://www.hpca-conf.org/), 
-[ASPLOS](https://www.asplos-conference.org/), 
-[USENIX SECURITY](https://www.usenix.org/conference/usenixsecurity25),
-[etc](https://www.cse.iitb.ac.in/~biswa/forums.html)); 
-*BUT ALSO* cause sufficient industrial impact such that, their practical feasability on silicon, becomes a reality in today's computing infrastructure.
+as [**Microarchitects**](https://developer.arm.com/documentation/102404/0202/Architecture-and-micro-architecture),
 
+My research is simple. I deisgn xyz.
+  - [ISCA](https://www.iscaconf.org/)
+  - [MICRO](https://www.microarch.org/)
+  - [HPCA](https://www.hpca-conf.org/)
+  - [ASPLOS](https://www.asplos-conference.org/)
+  - [USENIX Security](https://www.usenix.org/conference/usenixsecurity25)
+  - [More forums](https://www.cse.iitb.ac.in/~biswa/forums.html)
+But I don’t stop there! My goal is to **influence real-world chips**—from academic prototypes to industry adoption.
+
+---
+
+- **Spectre & Meltdown:** Groundbreaking attacks that changed how we think about speculative execution ([USENIX Security](https://www.usenix.org/conference/usenixsecurity18/presentation/lipp), [Google Project Zero](https://googleprojectzero.blogspot.com/2018/01/reading-privileged-memory-with-side.html))
+- **ARM’s Security Extensions:** [ARM Architecture and Microarchitecture](https://developer.arm.com/documentation/102403/0202/Architecture-and-micro-architecture)
+- **Intel’s Top-Down Analysis Method:** [Performance Profiling](https://www.intel.com/content/www/us/en/docs/vtune-profiler/cookbook/2023-0/top-down-microarchitecture-analysis-method.html)
+- **ETH Zurich's Microarchitectural Security Research:** [Microarch Security](https://comsec.ethz.ch/research/microarch/)
+
+---

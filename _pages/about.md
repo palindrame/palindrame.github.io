@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Doctoral Candidate @<a href="">XYZ</a>
+subtitle: ABC @<a href=""><i><strong>XYZ</strong></i></a>
 
 profile:
   align: right
@@ -25,13 +25,24 @@ announcements:
 
 
 <span id="greeting" style="font-size: 2rem;"></span>    
-<h4>Call me ইন্দ্র🔹इन्द्र🔹<a href = "https://en.wikipedia.org/wiki/Indra">Indra</a> ( Ih n - d r uh )</h4>    
 
-At <a href = "" style="font-size: 1.5rem;">LABX</a>, 
-[**Batman**]() and I, as [**Microarchitects**](https://www.sciencedirect.com/science/article/abs/pii/B9780128200643000076),
-design systems where, a few NANOSECONDS feel like ETERNITY. [Click](\research\) to know more about my research. 
+<h4>You can call me <a href = "https://en.wikipedia.org/wiki/Indra"
+    style="font-size: 1.5rem; color: darkorange; font-weight: bold;">
+    Indra
+    </a> ( Ih n - d r uh )
+</h4>    
 
+At <a href="" 
+    style="font-size: 1.5rem; color: #32a852; font-weight: bold; font-style: italic;" 
+    onmouseover="this.style.color='#40E0D0';" 
+    onmouseout="this.style.color='#32a852';">
+    LABX
+</a>,
+<a href ="" style="font-size: 1.25rem; color: #FF7F50; font-weight: bold">
+    Coops
+</a> 
+and I, experiment within worlds where even a few *nanoseconds* might feel like an *ETERNITY*. Sounds Fascinating? It really is! [Click](\research\) to know more. 
 
-
-Always up for discussing cool ideas. Just [📨](mailto:mail.indranilpal@gmail.com).
+<br><br>
+Looking for like-minded folks to build cool shit? Would love to [discuss](mailto:mail.indranilpal@gmail.com)!
 
