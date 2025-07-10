@@ -9,15 +9,22 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
+  },{id: "nav-research",
+          title: "research",
+          description: "The best way to predict the future is to invent it. — Alan Kay",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/research/";
+          },
+        },{id: "nav-publications",
           title: "publications",
           description: "publications by categories in reversed chronological order.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-repos",
-          title: "repos",
+        },{id: "nav-projects",
+          title: "projects",
           description: "A selection of academic and personal projects I’ve worked on or am currently pursuing.",
           section: "Navigation",
           handler: () => {
