@@ -1,10 +1,10 @@
 ---
 layout: page
-title: repos
+title: projects
 permalink: /projects/
 description: A selection of academic and personal projects I’ve worked on or am currently pursuing.
 nav: true
-nav_order: 3
+nav_order: 4
 display_categories: [academic, personal]
 horizontal: false
 ---

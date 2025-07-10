@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: List of academic courses assisted through <b>Lab / Teaching Assistantship</b> roles.
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 

@@ -6,7 +6,7 @@ layout: cv
 permalink: https://palindrame.github.io/assets/pdf/Indranil_Pal_miniCV.pdf
 title: cv
 nav: true
-nav_order: 4
+nav_order: 5
 cv_pdf: Indranil_Pal_miniCV.pdf # you can also use external links here
 description: This is a minimal description of my academic/professional life. To get the pdf version click the top pdf download button.
 toc:
