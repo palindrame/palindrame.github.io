@@ -10,12 +10,12 @@ nav_order: 5
 
 
 
-| 📚 Course Name                              | 🏛️ Institution                  | 📅 Semester     |
-|--------------------------------------------|----------------------------------|-------------|
-| Programming Paradigms Lab (CS 2273)           | IIEST, Shibpur                   | Spring 2025        |
-| Algorithm Lab (CS 2271)                      | IIEST, Shibpur                   | Spring 2025        |
-| Compiler Design Lab (CS 4171)                | IIEST, Shibpur                   | Autumn 2024        |
-| Soft Computing Lab (CS 3183)                 | IIEST, Shibpur                   | Autumn 2024        |
+| 📚 Course Name                              | 🏛️ Institution                  | 📅 Semester     | 🤓 #Students |
+|:--------------------------------------------|:----------------------------------|:-------------:|:----------:|
+| Programming Paradigms Lab (CS 2273)           | IIEST, Shibpur                   | Spring 2025        | 104 |
+| Algorithm Lab (CS 2271)                      | IIEST, Shibpur                   | Spring 2025        | 105 |
+| Compiler Design Lab (CS 4171)                | IIEST, Shibpur                   | Autumn 2024        | 101 |
+| Soft Computing Lab (CS 3183)                 | IIEST, Shibpur                   | Autumn 2024        | 102 |
 
 ---
 

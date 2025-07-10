@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
   const greetings = [
-    "Hello",        // English
+    "שלום",        // Hebrew
     "Hola",         // Spanish
     "Bonjour",      // French
     "Hallo",        // German
@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", () => {
     "你好",         // Chinese
     "নমস্কার",          // Bengali
     "Здравствуйте", // Russian
-    "Salam"         // Arabic
+    "مرحبًا"         // Arabic
   ];
 
   const index = new Date().getHours() % greetings.length;

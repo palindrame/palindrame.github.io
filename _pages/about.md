@@ -24,14 +24,19 @@ announcements:
 
 
 
-<span id="greeting">Hello</span>! I’m ইন্দ্র🔹इन्द्र🔹[Indra](https://en.wikipedia.org/wiki/Indra) (Ih n - d r uh)🔹palindrame (pal + indra + me).    
+<span id="greeting">Hello</span>!    
+I’m ইন্দ্র🔹इन्द्र🔹[Indra](https://en.wikipedia.org/wiki/Indra) (Ih n - d r uh)🔹palindrame (pal + indra + me).    
 Call me what you like, [ENDIAN it doesn’t even matter](https://www.youtube.com/watch?v=eVTXPUF4Oz4) ¯\\\_(ツ)\_/¯
 
 
 I pray to the Holy Trinity of [Computer Architecture](https://en.wikipedia.org/wiki/Computer_architecture), 
 [Operating Systems](https://en.wikipedia.org/wiki/Operating_system) and 
 [Compilers](https://en.wikipedia.org/wiki/Compiler), 
-with particular devotion towards Computer Architecture. My research efforts are largely centered on the 
+with particular devotion towards Computer Architecture. 
+I was initiated into the dark arts by the one they call [**XYZ**]().
+
+
+My research efforts are largely centered on the 
 [**Performance**](https://www.intel.com/content/www/us/en/docs/vtune-profiler/cookbook/2023-0/top-down-microarchitecture-analysis-method.html) and 
 [**Security**](https://comsec.ethz.ch/research/microarch/)
 [tradeoffs](https://developer.arm.com/documentation/102404/0202/Architecture-and-micro-architecture) of 
