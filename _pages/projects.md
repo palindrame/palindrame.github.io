@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: A selection of academic and personal projects I’ve worked on or am currently pursuing.
 nav: true
 nav_order: 4
-display_categories: [academic, personal]
+display_categories: [Academic, Personal]
 horizontal: false
 ---
 

@@ -4,7 +4,7 @@
 
 layout: cv
 permalink: https://palindrame.github.io/assets/pdf/Indranil_Pal_miniCV.pdf
-title: cv
+title: CV
 nav: true
 nav_order: 5
 cv_pdf: Indranil_Pal_miniCV.pdf # you can also use external links here

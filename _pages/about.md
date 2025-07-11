@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: ABC @<a href=""><i><strong>XYZ</strong></i></a>
+subtitle: PG @<a href=""><i><strong>IIEST</strong></i></a>
 
 profile:
   align: right
@@ -23,13 +23,11 @@ announcements:
 ---
 
 
-
 <span id="greeting" style="font-size: 2rem;"></span>    
-
-<h4>You can call me <a href = "https://en.wikipedia.org/wiki/Indra"
+<h4>I'm <a href = "https://en.wikipedia.org/wiki/Indra"
     style="font-size: 1.5rem; color: darkorange; font-weight: bold;">
     Indra
-    </a> ( Ih n - d r uh )
+    </a> ( Ih n - d r uh ).
 </h4>    
 
 At <a href="" 
@@ -41,8 +39,8 @@ At <a href=""
 <a href ="" style="font-size: 1.25rem; color: #FF7F50; font-weight: bold">
     Coops
 </a> 
-and I, experiment within worlds where even a few *nanoseconds* might feel like an *ETERNITY*. Sounds Fascinating? It really is! [Click](\research\) to know more. 
+and I, visit worlds where a few *nanoseconds*    
+might feel like *ETERNITY*. Sounds Fascinating? [Click](\research\) to know more. 
 
 <br><br>
-Looking for like-minded folks to build cool shit? Would love to [discuss](mailto:mail.indranilpal@gmail.com)!
-
+*Always open to collaborating on cool projects. Let's [talk](mailto:mail.indranilpal@gmail.com)!*

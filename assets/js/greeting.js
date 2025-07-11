@@ -10,8 +10,19 @@
         "안녕하세요!",     // Korean
         "你好!",         // Chinese
         "নমস্কার!",      // Bengali
+        "ନମସ୍କାର!",      // Odia
         "Здравствуйте!", // Russian
-        "مرحبًا!"        // Arabic
+        "བཀྲ་ཤིས་བདེ་ལེགས!",       // Tibetan
+        "مرحبًا!",        // Arabic
+        "Zdravo!",        // Croatian
+        "নমস্কাৰ!",       // Assamese
+        "Olá",        // Portuguese
+        "ನಮಸ್ಕಾರ!",        // Kannada
+        "नमस्कार!",        // Marathi
+        "Bàwo ni!",        // Yoruba
+        "Hujambo!",        // Swahili
+        "Hei!",        // Norwegian
+        "Привіт!",        // Ukranian
       ];
 
       const index = Math.floor(Math.random() * greetings.length);
