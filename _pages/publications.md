@@ -7,8 +7,16 @@ nav: true
 nav_order: 3
 ---
 
->🚧 page under construction ...
+<br>
+<br>
 
+
+<div style="text-align: center; font-style: italic;">“The best way to predict the future is to invent it.”</div>
+<div style="text-align: center; font-style: italic;">— Alan Kay</div>
+
+
+<br>
+<br>
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
