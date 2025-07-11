@@ -4,41 +4,41 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
   },{id: "nav-research",
-          title: "research",
-          description: "The best way to predict the future is to invent it. — Alan Kay",
+          title: "Research",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
           },
         },{id: "nav-publications",
-          title: "publications",
-          description: "publications by categories in reversed chronological order.",
+          title: "Publications",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A selection of academic and personal projects I’ve worked on or am currently pursuing.",
+        },{id: "nav-github",
+          title: "Github",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/https:/github.com/palindrame";
           },
         },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "This is a minimal description of my academic/professional life. To get the pdf version click the top pdf download button.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/https:/palindrame.github.io/assets/pdf/Indranil_Pal_miniCV.pdf";
           },
         },{id: "nav-teaching",
-          title: "teaching",
+          title: "Teaching",
           description: "List of academic courses assisted through Lab / Teaching Assistantship roles.",
           section: "Navigation",
           handler: () => {
