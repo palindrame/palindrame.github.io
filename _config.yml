@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: Indranil
+title: Indranil # the website title (if blank, full name will be used instead)
+first_name:
 middle_name:
-last_name: Pal
+last_name:
 contact_note: >
   Looking for a quick reply? Reach out right <a href="https://x.com/palindrame">here</a>.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"

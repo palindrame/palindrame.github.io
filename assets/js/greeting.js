@@ -35,10 +35,11 @@
         el.innerText = currentGreeting;
         el.style.opacity = "0";
         el.style.transition = "opacity 1s ease-in-out";
-        el.style.fontSize = "2.5rem";
+        el.style.fontSize = "3rem";
+        el.style.fontStyle = "italic";
         el.style.fontWeight = "bold";
         el.style.color = "#1E90FF"; // Dodger Blue
-        el.style.marginTop = "2rem";
+        el.style.marginTop = "4rem";
         el.style.textAlign = "center";
 
         // Trigger fade-in after rendering
