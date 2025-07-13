@@ -30,17 +30,16 @@ announcements:
 </h4> 
 <br>
 I'm a <span style="font-size: 1.25em; font-weight: bold;">PhD</span> **@**<a  href = ""
-    style="font-size: 1.25rem; color: #32a852; font-weight: bold; font-style: italic;"
+    style="font-size: 1.5rem; color: #32a852; font-weight: bold; font-style: italic;"
     onmouseover="this.style.color='#40E0D0';" 
     onmouseout="this.style.color='#32a852';">
-    FERMIO
-</a> Lab, <a href ="" style="font-size: 1.2rem; color: #ffb347; font-weight: bold; font-style: italic;">ABCD</a>.
+    FERMIO</a>,
+<span href ="" style="font-size: 1.25rem; font-weight: bold;">ABCD</span>.
 
-With <a href ="" style="font-size: 1.2rem; color: #FF7F50; font-weight: normal">Coops</a>, I dive beneath abstractions so deep,
-even compilers needs therapy.
-Welcome to my realm where *every extra nanosecond feels like a lost oppurtunity*.
+
+Where software plays checkers, <a href ="" style="font-size: 1.2rem; color: #FF7F50; font-weight: normal">Coops</a> and I play 4D chess against the CPU clock.     
+Welcome to the realm where *every extra nanosecond feels like an endless eternity*.    
 Sounds crazy? [Click](/research/) to know more about my research.
-<br>
 <br>
 <br>
 ***Email***: mail **[dot]** indranilpal **[at]** gmail **[dot]** com
