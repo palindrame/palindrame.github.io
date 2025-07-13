@@ -16,20 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/research/";
           },
-        },{id: "nav-publications",
-          title: "Publications",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
-          },
-        },{id: "nav-github",
-          title: "Github",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/https:/github.com/palindrame";
-          },
         },{id: "nav-cv",
           title: "CV",
           description: "This is a minimal description of my academic/professional life. To get the pdf version click the top pdf download button.",
@@ -44,12 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather.html";
-            },},{id: "news-successfully-defended-my-master-s-thesis-titled-travelling-with-rewards-and-penalties-sincerely-thankful-to-dr-shubhadip-mitra",
+        },{id: "news-successfully-defended-my-master-s-thesis-titled-travelling-with-rewards-and-penalties-sincerely-thankful-to-dr-shubhadip-mitra",
           title: '🎓 Successfully defended my Master’s thesis, titled “Travelling with Rewards and Penalties”. Sincerely...',
           description: "",
           section: "News",},{id: "news-successfully-defended-my-master-s-thesis-titled-travelling-with-rewards-and-penalties-sincerely-thankful-to-dr-shubhadip-mitra",
