@@ -2,13 +2,13 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: List of academic courses assisted through <b>Lab / Teaching Assistantship</b> roles.
+description: 
 nav: true
 nav_order: 6
 ---
-
-
-
+<span style="font-size: 1.2rem; color: #6e6e6e; font-weight: thin;">
+The following is a list of academic courses I supported, through teaching or lab assistant roles.
+</span>
 
 | 📚 Course Name                              | 🏛️ Institution                  | 📅 Semester     | 🤓 #Students |
 |:--------------------------------------------|:----------------------------------|:-------------:|:----------:|
@@ -19,6 +19,6 @@ nav_order: 6
 
 ---
 
-✍️ *Interested in the course content or lecture notes? Feel free to [reach out](mailto:mail.indranilpal@gmail.com)*
+*Interested in knowing more about the course content? Feel free to [reach out](mailto:mail.indranilpal@gmail.com).*
 
 
