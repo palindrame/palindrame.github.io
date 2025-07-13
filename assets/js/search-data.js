@@ -35,7 +35,7 @@ ninja.data = [{
           description: "This is a minimal description of my academic/professional life. To get the pdf version click the top pdf download button.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/https:/palindrame.github.io/assets/pdf/Indranil_Pal_miniCV.pdf";
+            window.location.href = "/https:/drive.google.com/file/d/1ShN27iGla1HhfsTiVj0pvRmfk2ePy7AW/view?usp=sharing";
           },
         },{id: "nav-teaching",
           title: "Teaching",
