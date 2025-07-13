@@ -25,8 +25,8 @@ announcements:
 
 <span id="greeting" style="font-size: 2.5rem;"></span>
 <h4>Call me <a href="https://www.worldhistory.org/Indra/" style="font-size: 2rem; font-style: italic; color: darkorange; font-weight: bold;">
-            Indra</a><s style="font-size: 2rem; font-style: italic; color: '#aaa'; font-weight: bold; opacity: 0.6; 
-            text-decoration: line-through; text-decoration-color: #FF4450; text-decoration-thickness: 3px;">nil Pal</s>
+            Indra</a><s style="font-size: 2rem; font-style: italic; color: '#aaa'; font-weight: bold; opacity: 0.5; 
+            text-decoration: line-through; text-decoration-color: '#aaa'; text-decoration-thickness: 2px;">nil Pal</s>
 </h4> 
 <br>
 I'm a <span style="font-size: 1.25em; font-weight: bold;">PhD</span> **@**<a  href = ""
