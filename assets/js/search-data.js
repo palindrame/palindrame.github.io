@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "List of academic courses assisted through Lab / Teaching Assistantship roles.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -50,6 +50,18 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
             },},{id: "news-successfully-defended-my-master-s-thesis-titled-travelling-with-rewards-and-penalties-sincerely-thankful-to-dr-shubhadip-mitra",
+          title: '🎓 Successfully defended my Master’s thesis, titled “Travelling with Rewards and Penalties”. Sincerely...',
+          description: "",
+          section: "News",},{id: "news-successfully-defended-my-master-s-thesis-titled-travelling-with-rewards-and-penalties-sincerely-thankful-to-dr-shubhadip-mitra",
+          title: '🎓 Successfully defended my Master’s thesis, titled “Travelling with Rewards and Penalties”. Sincerely...',
+          description: "",
+          section: "News",},{id: "news-successfully-defended-my-master-s-thesis-titled-travelling-with-rewards-and-penalties-sincerely-thankful-to-dr-shubhadip-mitra",
+          title: '🎓 Successfully defended my Master’s thesis, titled “Travelling with Rewards and Penalties”. Sincerely...',
+          description: "",
+          section: "News",},{id: "news-successfully-defended-my-master-s-thesis-titled-travelling-with-rewards-and-penalties-sincerely-thankful-to-dr-shubhadip-mitra",
+          title: '🎓 Successfully defended my Master’s thesis, titled “Travelling with Rewards and Penalties”. Sincerely...',
+          description: "",
+          section: "News",},{id: "news-successfully-defended-my-master-s-thesis-titled-travelling-with-rewards-and-penalties-sincerely-thankful-to-dr-shubhadip-mitra",
           title: '🎓 Successfully defended my Master’s thesis, titled “Travelling with Rewards and Penalties”. Sincerely...',
           description: "",
           section: "News",},{id: "projects-project-1",
