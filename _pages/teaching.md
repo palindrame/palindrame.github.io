@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 <span style="font-size: 1.2rem; color: #6e6e6e; font-weight: thin;">
-The following is a list of academic courses I supported, through teaching or lab assistant roles.
+Following is a list of academic courses I assisted, through Lab / TA roles.
 </span>
 
 | 📚 Course Name                              | 🏛️ Institution                  | 📅 Semester     | 🤓 #Students |

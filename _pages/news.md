@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What's new?
+title: Announcements
 permalink: /news/
 ---
 

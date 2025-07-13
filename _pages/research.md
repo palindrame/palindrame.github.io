@@ -8,14 +8,14 @@ nav_order: 2
 horizontal: false
 ---
 
-- <span style="font-size: 1.2rem; color: #6e6e6e; font-weight: bold;">Microarchitectural</span>
+- <span style="font-size: 1.3rem; color: #6e6e6e; font-weight: thin;">Microarchitectural</span>
 <a href="https://www.youtube.com/watch?v=rglmJ6Xyj1c" 
-    style="font-size: 1.3rem; color: #32a852; font-weight: bold;">
+    style="font-size: 1.3rem; color: #32a852; font-weight: bold; font-style: italic;">
     Performance
-</a>: Memory hierarchy optimizations, Architecture-OS interaction    
-- <span style="font-size: 1.2rem; color: #6e6e6e; font-weight: bold;">Microarchitectural</span>
+</a>: Memory hierarchy optimizations, Architecture-OS interactions    
+- <span style="font-size: 1.3rem; color: #6e6e6e; font-weight: thin;">Microarchitectural</span>
 <a href="https://www.youtube.com/watch?v=LIYZemVCgiM" 
-    style="font-size: 1.3rem; color: #FF4450; font-weight: bold;">
+    style="font-size: 1.3rem; color: #FF4450; font-weight: bold; font-style: italic;">
     Security
 </a>: Offensive side, Defensive side, Performance-Security tradeoffs 
 <br>
@@ -28,7 +28,7 @@ Even the smartest software engineers and State-of-the-Art compilers, sometimes
 <a href="https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/resources/mit6_172f18_lec9/">fall short</a>  of meeting performance demands. 
 When every <a href="https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/resources/mit6_172f18_lec1/">software trick's</a> been exhausted, 
 and you still need more; who brings performance from beyond the reach of code? That’s where 
-<span style="font-size: 1.2rem; color: #1E90FF; font-weight: bold;">microarchitects</span> like me step in. 
+<span style="font-size: 1.2rem; color: #ffb347; font-weight: bold;">microarchitects</span> like me step in. 
 We extract raw performance from the veins of silicon itself. We tap into performance reservoirs that no software has access to. We unlock performance paths which are abstracted away from even compilers. 
 We reclaim performance at every
 <a href="https://www.intel.com/content/www/us/en/docs/programmable/784383/24-1/cpu-cycles-and-steps.html">CPU tick</a>. Welcome to the world of

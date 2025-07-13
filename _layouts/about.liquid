@@ -31,9 +31,12 @@ layout: default
 
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
-      <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">what's new?</a>
-      </h2>
+      <h5>
+	      <a href="{{ '/news/' | relative_url }}" style="color: inherit" 
+			onmouseover="this.textContent='View full list'; this.style.color='#32a852';"
+			onmouseout="this.textContent='Latest 📢'; this.style.color= 'inherit';"
+			>Latest 📢</a>
+      </h5>
       {% include news.liquid limit=true %}
     {% endif %}
 

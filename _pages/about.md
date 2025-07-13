@@ -19,13 +19,14 @@ social: false # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 4 # leave blank to include all the news in the `_news` folder
+  limit: 3 # leave blank to include all the news in the `_news` folder
 ---
 
 
 <span id="greeting" style="font-size: 2.5rem;"></span>
-<h4>Call me <span style="font-size: 2rem; font-style: italic; color: darkorange; font-weight: bold;">
-            Indra<s style="color: #aaa; font-style: italic; opacity: 0.6; text-decoration: line-through; text-decoration-color: #FF4450; text-decoration-thickness: 3px;">nil Pal</s></span> 
+<h4>Call me <a href="https://www.worldhistory.org/Indra/" style="font-size: 2rem; font-style: italic; color: darkorange; font-weight: bold;">
+            Indra</a><s style="font-size: 2rem; font-style: italic; color: '#aaa'; font-weight: bold; opacity: 0.6; 
+            text-decoration: line-through; text-decoration-color: #FF4450; text-decoration-thickness: 3px;">nil Pal</s>
 </h4> 
 <br>
 I'm a <span style="font-size: 1.25em; font-weight: bold;">PhD</span> **@**<a  href = ""
@@ -36,11 +37,10 @@ I'm a <span style="font-size: 1.25em; font-weight: bold;">PhD</span> **@**<a  hr
 </a> Lab, <a href ="" style="font-size: 1.2rem; color: #ffb347; font-weight: bold; font-style: italic;">ABCD</a>.
 
 With <a href ="" style="font-size: 1.2rem; color: #FF7F50; font-weight: normal">Coops</a>, I dive beneath abstractions so deep,
-even the compiler needs therapy.
-This is a world *where every lost nanosecond feels like an eternity*.
-Sounds crazy?   
-[Click](/research/) to know more about my research.
+even compilers needs therapy.
+Welcome to my realm where *every extra nanosecond feels like a lost oppurtunity*.
+Sounds crazy? [Click](/research/) to know more about my research.
 <br>
 <br>
 <br>
-***Email**: mail **[dot]** indranilpal **[at]** gmail **[dot]** com*
+***Email***: mail **[dot]** indranilpal **[at]** gmail **[dot]** com

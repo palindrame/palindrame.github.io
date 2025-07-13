@@ -3,7 +3,7 @@
 # Change permanlink to /cv/ for default webpage view. (change /assests/json/resume.json to change webpage material) 
 
 layout: cv
-permalink: https://palindrame.github.io/assets/pdf/Indranil_Pal_miniCV.pdf
+permalink: https://drive.google.com/file/d/1ShN27iGla1HhfsTiVj0pvRmfk2ePy7AW/view?usp=sharing 
 title: CV
 nav: true
 nav_order: 5
