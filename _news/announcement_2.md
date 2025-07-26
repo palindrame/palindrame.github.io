@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-07-02 15:59:00-0400
+date: 2025-07-25 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-🎓 Successfully defended my Master's thesis, titled "Travelling with Rewards and Penalties". Sincerely thankful to [Dr. Shubhadip Mitra](https://sites.google.com/view/shubhadip-mitra).
+Pleased to announce that I'll be working with [Prof. Biplab K. Sikdar]() and [Dr. Sukanta Das]() on the project titled "An Architecture for In-Memory Computing".

@@ -29,12 +29,11 @@ announcements:
             text-decoration: line-through; text-decoration-color: '#aaa'; text-decoration-thickness: 2px;">nil Pal</s>
 </h4> 
 <br>
-I'm a <span style="font-size: 1.25em; font-weight: bold;">PhD</span> **@**<a  href = ""
+I'm a <span style="font-size: 1.25em; font-weight: bold;">JRF</span> **@**<a  href = ""
     style="font-size: 1.5rem; color: #32a852; font-weight: bold; font-style: italic;"
     onmouseover="this.style.color='#40E0D0';" 
-    onmouseout="this.style.color='#32a852';">
-    FERMIO</a>,
-<span href ="" style="font-size: 1.25rem; font-weight: bold;">ABCD</span>.
+    onmouseout="this.style.color='#32a852';">IIEST</a>,
+<span href ="" style="font-size: 1.25rem; font-weight: bold;">Shibpur</span>.
 
 
 Where software plays checkers, <a href ="" style="font-size: 1.2rem; color: #FF7F50; font-weight: normal">Coops</a> and I play 4D chess against the CPU clock.     
