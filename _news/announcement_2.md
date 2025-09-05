@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Pleased to announce that I'll be working with [Prof. Biplab K. Sikdar]() and [Dr. Sukanta Das]() on the project titled "An Architecture for In-Memory Computing".
+Pleased to announce that I'll be collaborating with [Prof. Biplab K. Sikdar](https://scholar.google.co.in/citations?user=zC37HfwAAAAJ&hl=en) and [Dr. Sukanta Das](https://scholar.google.co.in/citations?user=oyXadmUAAAAJ&hl=en) to develop "An Architecture for In-Memory Computing".
